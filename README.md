@@ -1,2 +1,2 @@
-# mascotas
-es una pagina de mascotas
+# Spa
+es una pagina de spa
